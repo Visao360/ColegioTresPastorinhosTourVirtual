@@ -1,4 +1,8 @@
 {
+ "start_url": "index.htm?installed=true",
+ "name": "Colégio Três Pastorinhos",
+ "background_color": "#F3F3F4",
+ "theme_color": "#F3F3F4",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Colégio Três Pastorinhos",
- "display": "fullscreen",
- "theme_color": "#F3F3F4",
- "background_color": "#F3F3F4",
- "start_url": "index.htm?installed=true"
+ "display": "fullscreen"
 }
